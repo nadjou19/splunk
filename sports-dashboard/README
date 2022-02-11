@@ -1,1 +1,14 @@
+Prerequisites:
+1. Strava for Splunk
+2. MLTK
+3. Maps+ for Splunk
 
+Install:
+1. download and install sports-dashboard.spl
+2. download the .svg files from the images folder
+3. navigate to the main dashboard, edit it and add them in the items giving an "error retriving kvstore from Image registry"
++ the order from the left to the right: line 1: Ski, Ride, VirtualRide, Swim. Line 2: Hike, Run, Dive, Surf
+4. add the .jpeg image as a background for the main dashboard
+
+Customization: 
+remove / rearrange times according to your needs.
